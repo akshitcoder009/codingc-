@@ -19,7 +19,11 @@ int main ()
     cout<< "write first number";	
  	cout<< endl;
  	cin>>a;
+ 	cout<< "enter second number";
+ 	cout<< endl;
  	cin>>b;
+ 	
+ 	
  	int result;
 	  result =a<b;
 	cout<< "first answer";
