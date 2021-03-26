@@ -18,23 +18,24 @@ int main ()
  	cout<< endl;
  	sum= x + a;
  	
- 	cout<< s;
+ 	cout<< sum;
  	
  	cout<<endl;
+ 
  	cout<< "answer of subtraction";
  	cout<< endl;
- 	s = x - a;
- 	cout<< s;
+ 	sum = x - a;
+ 	cout<< sum;
  	cout<<endl;
  	cout<< "answer of multiplication";
  	cout<< endl;
- 	s = x * a; 
- 	cout<< s;
+ 	sum = x * a; 
+ 	cout<< sum;
  	cout<< endl;
  	cout<< "answer of divide"; 
  	cout<< endl;
- 	s = x / a;
- 	cout<< s;
+ 	sum = x / a;
+ 	cout<< sum;
  	
  	
  return 0;	
