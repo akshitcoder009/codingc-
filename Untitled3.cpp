@@ -8,13 +8,15 @@ int main ()
  	cout<< "enter first number";
  	cout<< endl;
  	cin>>x;
+ 
  	cout<< "enter second number";
  	cout<< endl;
-cin>>a;
- 	int s;
+  cin>>a;
+ 
+ 	int sum;
  	cout<< "answer of addition";
  	cout<< endl;
- 	s= x + a;
+ 	sum= x + a;
  	
  	cout<< s;
  	
